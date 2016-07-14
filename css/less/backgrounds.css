@@ -1,0 +1,16 @@
+.top-header {
+  padding: 200px 0;
+  background-image: url("../../images/banner-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-top: 3px solid #2dcb70;
+}
+.updt {
+  background-color: #e3e3e3;
+  padding: 0px 0 45px 0px;
+  width: 100%;
+}
+.ftr-bg {
+  background-color: #e3e3e3;
+}

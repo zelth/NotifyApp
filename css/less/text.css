@@ -1,0 +1,27 @@
+.txt p {
+  color: #fff;
+  font-size: 20px;
+}
+.thm-def {
+  color: #a8a8a8;
+}
+.updt-def {
+  color: #8d8d8d;
+}
+.tn-cont {
+  margin: 60px 0 45px 0px;
+  height: 20px;
+}
+.sldr {
+  font-size: 10px;
+}
+.tn-cont p {
+  color: #8d8d8d;
+}
+.get-title {
+  font-size: 15px;
+}
+.get-description {
+  color: #8d8d8d;
+  margin: 20px 0 0 0;
+}

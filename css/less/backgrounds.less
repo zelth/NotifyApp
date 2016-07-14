@@ -1,0 +1,21 @@
+.bg-img(@img) { background-image:url("@{img}"); }
+@defaultColor : #e3e3e3;
+
+.top-header {
+    padding: 200px 0;
+    .bg-img("../../images/banner-bg.jpg");
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-top: 3px solid #2dcb70;
+}
+
+.updt {
+    background-color : @defaultColor;
+    padding: 0px 0 45px 0px;
+    width: 100%;
+}   
+
+.ftr-bg {
+	background-color: @defaultColor;
+}

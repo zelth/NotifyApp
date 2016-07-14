@@ -1,0 +1,29 @@
+/*@media sizes*/
+@media (min-width: 1200px) { 
+  /*body { border:10px solid red; }*/
+
+  .containter { width:1660px; }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  /*body { border:10px solid blue; }*/
+
+  
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+  /*body { border:10px solid green; }*/
+  
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  /*body { border:10px solid yellow; }*/
+
+  
+}
+
+@media screen and (max-width: 600px) {
+  /*body { border:10px solid pink; }*/
+  
+}
